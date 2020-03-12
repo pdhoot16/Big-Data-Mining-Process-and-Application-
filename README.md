@@ -1,4 +1,4 @@
-# CRSIP-DM
+# Big Data Mining Process and Application 
 
 ## Assessment Task  
 
